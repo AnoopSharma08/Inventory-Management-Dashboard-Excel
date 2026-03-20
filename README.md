@@ -20,9 +20,7 @@
 •	How much stock has been received vs dispatched?
 •	What percentage of inventory is currently available?
 •	Which products are at risk of stockout?
-•	Which stores have the lowest inventory levels?
-## Dashboard 
-<img width="1317" height="436" alt="Screenshot 2026-03-20 210404" src="https://github.com/user-attachments/assets/33f250d9-ff16-4226-b6e9-5a3127db319e" />
+•	Which stores have the lowest inventory levels
 ## Key Insights from the Inventory Dashboard'
 •	Inventory Imbalance Identified
 A significant gap exists between stock received (4,540 units) and dispatched (2,827 units), leaving 1,713 units in inventory, indicating possible overstocking in certain products or stores.
