@@ -25,17 +25,21 @@ This dashboard helps organizations improve inventory visibility, reduce stock sh
 •	Which stores have the lowest inventory levels?
 ## Dashboard 
 <img width="1317" height="436" alt="Screenshot 2026-03-20 210404" src="https://github.com/user-attachments/assets/33f250d9-ff16-4226-b6e9-5a3127db319e" />
-## Key Insights from the Inventory Dashboard
-# •	Inventory Imbalance Identified
+## Key Insights from the Inventory Dashboard'
+•	Inventory Imbalance Identified
 A significant gap exists between stock received (4,540 units) and dispatched (2,827 units), leaving 1,713 units in inventory, indicating possible overstocking in certain products or stores.
-# •	Low Stock Availability (38%)
+•	Low Stock Availability (38%)
 Overall stock availability is relatively low, suggesting potential inefficiencies in stock distribution or high demand for specific products.
-# •	Risk of Stockouts
+•	Risk of Stockouts
 The Bottom 10 analysis highlights multiple products below their reorder levels, indicating an immediate need for replenishment to avoid stockouts.
-# •	Uneven Stock Distribution Across Stores
+•	Uneven Stock Distribution Across Stores
 Some stores have lower inventory levels compared to others, pointing toward imbalance in stock allocation.
-# •	Fluctuating Monthly Trends
+•	Fluctuating Monthly Trends
 Monthly analysis shows variations in stock inflow and outflow, indicating inconsistent inventory planning or seasonal demand patterns.
-# •	Slow-Moving or Excess Stock
+•	Slow-Moving or Excess Stock
 Certain products appear to have higher availability but lower dispatch rates, suggesting slow-moving inventory that may lead to holding costs
-
+## Business Recommendations
+•	Optimize stock distribution across stores to balance availability
+•	Improve demand forecasting to reduce overstocking and stockouts
+•	Implement timely replenishment strategies for low-stock items
+•	Monitor slow-moving products to reduce excess inventory costs
