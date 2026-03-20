@@ -16,7 +16,7 @@
 •	Power Pivot (Data Modeling and Relationships)
 •	DAX (KPI Calculations and Measures)
 ## Business Value
-This dashboard helps organizations improve inventory visibility, reduce stock shortages, and make data-driven decisions. It minimizes manual effort and enhances operational efficiency, making it valuable for roles in data analytics, business intelligence, and operations management.
+This dashboard helps organizations improve inventory visibility, reduce stock shortages, and make data-driven decisions. It minimizes manual effort and enhances operational efficiency.
 ## Question (KPIs)
 •	What is the current inventory level across all stores?
 •	How much stock has been received vs dispatched?
