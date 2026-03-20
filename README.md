@@ -23,5 +23,7 @@ This dashboard helps organizations improve inventory visibility, reduce stock sh
 •	What percentage of inventory is currently available?
 •	Which products are at risk of stockout?
 •	Which stores have the lowest inventory levels?
+## Dashboard 
+<img width="1317" height="436" alt="Screenshot 2026-03-20 210404" src="https://github.com/user-attachments/assets/33f250d9-ff16-4226-b6e9-5a3127db319e" />
 
 
