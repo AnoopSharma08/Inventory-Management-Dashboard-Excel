@@ -30,11 +30,8 @@ Workflow
 3.	Built a data model with relationships in Power Pivot
 4.	Created KPIs using DAX
 5.	Designed an interactive and user-friendly dashboard
-________________________________________
+    
 Business Value
 This dashboard helps organizations improve inventory visibility, reduce stock shortages, and make data-driven decisions. It minimizes manual effort and enhances operational efficiency, making it valuable for roles in data analytics, business intelligence, and operations management.
-________________________________________
-Future Enhancements
-•	Integration with real-time or automated data sources
-•	Addition of demand forecasting and predictive analytics
-•	Enhanced visual design and advanced analytics features
+
+
