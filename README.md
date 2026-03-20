@@ -42,3 +42,5 @@ Certain products appear to have higher availability but lower dispatch rates, su
 •	Improve demand forecasting to reduce overstocking and stockouts
 •	Implement timely replenishment strategies for low-stock items
 •	Monitor slow-moving products to reduce excess inventory costs
+## Dashboard 
+<img width="1317" height="436" alt="Screenshot 2026-03-20 210404" src="https://github.com/user-attachments/assets/33f250d9-ff16-4226-b6e9-5a3127db319e" /> 
