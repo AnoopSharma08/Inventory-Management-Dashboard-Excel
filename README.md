@@ -3,7 +3,9 @@
 •	To monitor inventory movement and stock levels in real time
 
 •	To identify low-stock items and improve replenishment planning
+
 •	To provide clear and actionable insights for decision-making
+
 •	To reduce manual tracking and reporting efforts
 ## Key Features
 •	Inventory tracking (Received vs Dispatched vs Available)
